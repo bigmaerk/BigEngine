@@ -3,4 +3,4 @@ Big Engine is an upcoming, easy-to-learn 3D game engine targeted towards beginne
 
 ## Current features are:
 <img width="3839" height="2083" alt="image" src="https://github.com/user-attachments/assets/5d0c2a76-944a-4447-82aa-c2a00cfe08b6" />
-1. Basic Camera Orbit and Panning
+● Extensive customization features
