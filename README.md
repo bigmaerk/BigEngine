@@ -4,6 +4,7 @@ It is also powerful for more experienced developers, allowing for more advanced 
 
 ### NOTE:
 <b>I will not be sharing the source code here, as Microsoft's Copilot on Github takes code from public repos for training. Sorry for any inconvenience.</b>
+<b>However, I will share links and libraries I used to make this, they're at the bottom.</b>
 <br />
 ## Current features are: <br />
 <img width="3839" height="2083" alt="image" src="https://github.com/user-attachments/assets/5d0c2a76-944a-4447-82aa-c2a00cfe08b6" /> <br />
