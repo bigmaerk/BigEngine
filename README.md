@@ -2,7 +2,7 @@
 Big Engine is an upcoming, easy-to-learn 3D game engine targeted towards beginner game-devs. This game engine can be used to kickstart game devs to use more conventional engines such as Unity Engine. <br />
 It is also powerful for more experienced developers, allowing for more advanced features.<br />
 <br />
-###<b>NOTE:</b><br />
+<b>###NOTE:</b><br />
 I will not be sharing the source code here, as Microsoft's Copilot on Github takes code from public repos for training. Sorry for any inconvenience.
 <br />
 ## Current features are: <br />
