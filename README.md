@@ -7,4 +7,5 @@ It is also powerful for more experienced developers, allowing for more advanced 
 ● Extensive customization features <br />
 ● Multiple Shading Models (such as Phong, Blinn-phong, Gouraud, Realtime Ray Tracing, etc.) <br />
 ● Ease of use to new and experienced game devs <br />
-● Quick navigation
+● Quick navigation <br />
+● OBJ Importing
