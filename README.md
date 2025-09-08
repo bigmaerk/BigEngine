@@ -17,5 +17,5 @@ However, I will share resources I used to make this, they're at the bottom.</b>
 ## Resources I used during development:
 https://learnopengl.com/ <br />
 https://www.youtube.com/watch?v=2KEHrB82Z2M <br />
-https://www.youtube.com/watch?v=N775KsWQVkw&list=PLPV2KyIb3jR4CtEelGPsmPzlvP7ISPYzR
+https://www.youtube.com/watch?v=N775KsWQVkw&list=PLPV2KyIb3jR4CtEelGPsmPzlvP7ISPYzR <br />
 (P.S: yes, I did use c# to create this.)
