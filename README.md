@@ -9,7 +9,7 @@ However, I will share resources I used to make this, they're at the bottom.</b>
 ## Current features are: <br />
 <img width="3839" height="2083" alt="image" src="https://github.com/user-attachments/assets/5d0c2a76-944a-4447-82aa-c2a00cfe08b6" /> <br />
 ● Extensive customization features <br />
-● Multiple Shading Models (such as Phong, Blinn-phong, Gouraud, Realtime Ray Tracing, etc.) <br />
+● Multiple Render Engines (such as Phong, Blinn-phong, Gouraud, Ray Tracing, etc.) <br />
 ● Ease of use to new and experienced game devs <br />
 ● Quick navigation <br />
 ● OBJ Importing
