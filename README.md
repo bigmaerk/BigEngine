@@ -3,7 +3,7 @@ Big Engine is a lightweight, easy-to-learn, visual-coding 3D game engine targete
 It is also powerful for more experienced developers, allowing for more advanced features.<br />
 
 ### NOTE:
-<b>I will not be sharing the source code here, as Microsoft's Copilot on Github takes code from public repos for training (also I just dont want you seeing my embarrassingly bad code), Sorry for any inconvenience. <br />
+<b>I will not be sharing the source code here, as Microsoft's Copilot on Github takes code from public repos for training, so sorry for any inconvenience! <br />
 However, I will share resources I used to make this, they're at the bottom.</b>
 <br />
 ## Current features are: <br />
