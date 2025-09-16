@@ -11,6 +11,7 @@ However, I will share resources I used to make this, they're at the bottom.</b>
 ● Extensive customization features <br />
 ● Multiple Various Engines (such as Phong, Blinn-phong, Gouraud, Ray Tracing, etc, including programmable shaders) <br />
 ● Fast Editor GUI <br />
+● Interchangable visual and text scripting per object <br />
 ● Ease of use to new and experienced game devs <br />
 ● Quick navigation <br />
 ● OBJ Importing
