@@ -8,7 +8,7 @@ However, I will share resources I used to make this, they're at the bottom.</b>
 <br />
 ## Current features are: <br />
 <img width="3839" height="2083" alt="image" src="https://github.com/user-attachments/assets/5d0c2a76-944a-4447-82aa-c2a00cfe08b6" /> <br />
-● Extensive Engine Customization features <br />
+● Extensive low-level Engine Customization features <br />
 ● Various Shading Techniques (such as Phong, Blinn-phong, Gouraud, Ray Tracing, etc, including programmable shaders) <br />
 ● Snappy Editor GUI <br />
 ● Interchangable visual and text scripting per object (Visual/Text are based off of python and C#, and includes a C# api)<br />
