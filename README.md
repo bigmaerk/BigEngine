@@ -8,13 +8,16 @@ However, I will share resources I used to make this, they're at the bottom.</b>
 <br />
 ## Current features are: <br />
 <img width="3839" height="2083" alt="image" src="https://github.com/user-attachments/assets/5d0c2a76-944a-4447-82aa-c2a00cfe08b6" /> <br />
-● Extensive customization features <br />
+● Extensive Engine Customization features <br />
 ● Various Shading Techniques (such as Phong, Blinn-phong, Gouraud, Ray Tracing, etc, including programmable shaders) <br />
-● Fast Editor GUI <br />
-● Interchangable visual and text scripting per object <br />
-● Ease of use to new and experienced game devs <br />
-● Quick navigation <br />
-● OBJ Importing
+● Snappy Editor GUI <br />
+● Interchangable visual and text scripting per object (Visual/Text are based off of python and C#, and includes a C# api)<br />
+● Scripting Extensions for both visual and text scripting
+● Ease of use to new and experienced game devs (Has an "Advanced Mode" that can be toggled in Edit > Preferences) <br />
+● Fast navigation <br />
+● Easy OBJ Importing (Drag & drop) <br />
+● Base-level shader editing support <br />
+● Default Assets/Settings for New Projects
 
 ## Resources I used during development:
 https://learnopengl.com/ <br />
