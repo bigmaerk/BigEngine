@@ -12,7 +12,7 @@ However, I will share resources I used to make this, they're at the bottom.</b>
 ● Various Shading Techniques (such as Phong, Blinn-phong, Gouraud, Ray Tracing, etc, including programmable shaders) <br />
 ● Snappy Editor GUI <br />
 ● Lack of unnecessary bloat & UI clutter <br />
-● Interchangable visual and text scripting per object (Visual/Text are based off of python and C#, and includes a C# api)<br />
+● Interchangable visual and text scripting per object (Visual/Text are based off of python, C# and the way that Clickteam Fusion 2.5's coding system works, and it also includes a C# api)<br />
 ● Scripting Extensions for both visual and text scripting
 ● Ease of use to new and experienced game devs (Has an "Advanced Mode" that can be toggled in Edit > Preferences) <br />
 ● Fast navigation <br />
