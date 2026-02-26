@@ -7,6 +7,7 @@ It is also powerful for more experienced developers, allowing for more advanced 
 However, I will share resources I used to make this, they're at the bottom.</b>
 <br /> <br />
 <img width="3839" height="2083" alt="Older screenshot from around the beginning of development" src="https://github.com/user-attachments/assets/5d0c2a76-944a-4447-82aa-c2a00cfe08b6" /> <br />
+Older screenshot from around the beginning of development<br />
 ## Current features include: <br />
 ● Extensive low-level Engine Customization features <br />
 ● Various Shading Techniques (such as Phong, Blinn-phong, Gouraud, Ray Tracing, etc, including programmable shaders) <br />
